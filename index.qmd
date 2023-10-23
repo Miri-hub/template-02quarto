@@ -15,7 +15,7 @@ Place: **KO2-F-153, Rämistrasse 71, Zürich**
 
 ------------------
  
-# Welcome!
+# Welcome! Hi
 
 Quarto is one of the most discussed topics in the R community for the past year. In the posit conf 2023 that just happened a few weeks ago, there were 23 (!) talks on this open-source publishing system. You can build a personal or organisation website; a course or workshop website; a blog; a scientific report; a presentation; all with the possibility to display and execute code (R, Python, Julia), and for free.
 
